@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/dabinderudhan/discord_landingpage_clone.git/static/css/main.ea806ad8.css",
-    "main.js": "/dabinderudhan/discord_landingpage_clone.git/static/js/main.b9a7edde.js",
-    "static/media/hanging_out_easy_landing.svg": "/dabinderudhan/discord_landingpage_clone.git/static/media/hanging_out_easy_landing.76aa061defcd84b0b1be95f7fe43fc55.svg",
-    "static/media/invite_only_landing.svg": "/dabinderudhan/discord_landingpage_clone.git/static/media/invite_only_landing.01a90db7884c5a12e78cf5f0555a8dff.svg",
-    "static/media/Ginto Nord Regular.woff2.ttf": "/dabinderudhan/discord_landingpage_clone.git/static/media/Ginto Nord Regular.woff2.019833f2218afaf213d3.ttf",
-    "static/media/just_chiling_landing.svg": "/dabinderudhan/discord_landingpage_clone.git/static/media/just_chiling_landing.b8b2baa7deaa4d684823cc70302f9f85.svg",
-    "static/media/right_bg_landing_header.svg": "/dabinderudhan/discord_landingpage_clone.git/static/media/right_bg_landing_header.4412ed0aecaa5e680e2825260ad02488.svg",
-    "static/media/center_bg_landing_header.svg": "/dabinderudhan/discord_landingpage_clone.git/static/media/center_bg_landing_header.cee8c404dad14e615fd4d252741afd11.svg",
-    "static/media/discord_main_logo.svg": "/dabinderudhan/discord_landingpage_clone.git/static/media/discord_main_logo.8694a6a1eb56f1387f678c26a355c083.svg",
-    "static/media/instagram_icon.svg": "/dabinderudhan/discord_landingpage_clone.git/static/media/instagram_icon.f5c0653b77366454585042ff06de43bb.svg",
-    "static/media/tiny_stars_landing.svg": "/dabinderudhan/discord_landingpage_clone.git/static/media/tiny_stars_landing.c8abe2773b2b560ec726f90e94331f4a.svg",
-    "static/media/twitter_icon.svg": "/dabinderudhan/discord_landingpage_clone.git/static/media/twitter_icon.931adcd4c01af956b7d2bda42ba1ddda.svg",
-    "index.html": "/dabinderudhan/discord_landingpage_clone.git/index.html",
-    "static/media/youtube_icon.svg": "/dabinderudhan/discord_landingpage_clone.git/static/media/youtube_icon.6387c4e3ca35fad963a2bebce115e490.svg",
-    "static/media/facebook_icon.svg": "/dabinderudhan/discord_landingpage_clone.git/static/media/facebook_icon.33bb88f5074157a1713e32fbd97ab050.svg",
-    "static/media/up_arrow.svg": "/dabinderudhan/discord_landingpage_clone.git/static/media/up_arrow.a8573fe57d419ead1d50fc85fe808cb1.svg",
-    "static/media/open_icon.svg": "/dabinderudhan/discord_landingpage_clone.git/static/media/open_icon.915554d75380062f028e6ede523a58bb.svg",
-    "static/media/down_arrow.svg": "/dabinderudhan/discord_landingpage_clone.git/static/media/down_arrow.7aee1d9f4d2c46f1c6c08f59cc89e325.svg",
-    "main.ea806ad8.css.map": "/dabinderudhan/discord_landingpage_clone.git/static/css/main.ea806ad8.css.map",
-    "main.b9a7edde.js.map": "/dabinderudhan/discord_landingpage_clone.git/static/js/main.b9a7edde.js.map"
+    "main.css": "/discord_landingpage_clone/static/css/main.6e942342.css",
+    "main.js": "/discord_landingpage_clone/static/js/main.06dfbebf.js",
+    "static/media/hanging_out_easy_landing.svg": "/discord_landingpage_clone/static/media/hanging_out_easy_landing.76aa061defcd84b0b1be95f7fe43fc55.svg",
+    "static/media/invite_only_landing.svg": "/discord_landingpage_clone/static/media/invite_only_landing.01a90db7884c5a12e78cf5f0555a8dff.svg",
+    "static/media/Ginto Nord Regular.woff2.ttf": "/discord_landingpage_clone/static/media/Ginto Nord Regular.woff2.019833f2218afaf213d3.ttf",
+    "static/media/just_chiling_landing.svg": "/discord_landingpage_clone/static/media/just_chiling_landing.b8b2baa7deaa4d684823cc70302f9f85.svg",
+    "static/media/right_bg_landing_header.svg": "/discord_landingpage_clone/static/media/right_bg_landing_header.4412ed0aecaa5e680e2825260ad02488.svg",
+    "static/media/center_bg_landing_header.svg": "/discord_landingpage_clone/static/media/center_bg_landing_header.cee8c404dad14e615fd4d252741afd11.svg",
+    "static/media/discord_main_logo.svg": "/discord_landingpage_clone/static/media/discord_main_logo.8694a6a1eb56f1387f678c26a355c083.svg",
+    "static/media/instagram_icon.svg": "/discord_landingpage_clone/static/media/instagram_icon.f5c0653b77366454585042ff06de43bb.svg",
+    "static/media/tiny_stars_landing.svg": "/discord_landingpage_clone/static/media/tiny_stars_landing.c8abe2773b2b560ec726f90e94331f4a.svg",
+    "static/media/twitter_icon.svg": "/discord_landingpage_clone/static/media/twitter_icon.931adcd4c01af956b7d2bda42ba1ddda.svg",
+    "index.html": "/discord_landingpage_clone/index.html",
+    "static/media/youtube_icon.svg": "/discord_landingpage_clone/static/media/youtube_icon.6387c4e3ca35fad963a2bebce115e490.svg",
+    "static/media/facebook_icon.svg": "/discord_landingpage_clone/static/media/facebook_icon.33bb88f5074157a1713e32fbd97ab050.svg",
+    "static/media/up_arrow.svg": "/discord_landingpage_clone/static/media/up_arrow.a8573fe57d419ead1d50fc85fe808cb1.svg",
+    "static/media/open_icon.svg": "/discord_landingpage_clone/static/media/open_icon.915554d75380062f028e6ede523a58bb.svg",
+    "static/media/down_arrow.svg": "/discord_landingpage_clone/static/media/down_arrow.7aee1d9f4d2c46f1c6c08f59cc89e325.svg",
+    "main.6e942342.css.map": "/discord_landingpage_clone/static/css/main.6e942342.css.map",
+    "main.06dfbebf.js.map": "/discord_landingpage_clone/static/js/main.06dfbebf.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea806ad8.css",
-    "static/js/main.b9a7edde.js"
+    "static/css/main.6e942342.css",
+    "static/js/main.06dfbebf.js"
   ]
 }
