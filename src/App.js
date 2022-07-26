@@ -1,4 +1,4 @@
-import Header from "./components/Header";
+import { Header } from "./components/Header";
 import Main from "./components/Main";
 import Section from "./components/Section";
 import { ReactComponent as InviteOnly } from "./assets/invite_only_landing.svg";
@@ -8,13 +8,13 @@ import { ReactComponent as TinyStars } from "./assets/tiny_stars_landing.svg";
 import SectionJourney from "./components/Section-journey";
 import Footer from "./components/footer";
 
-function App() {
+function App(prop) {
   return (
     <div>
-      <header className="bg-[#404eed]">
+      <div className={`${prop.styleClass} bg-[#404eed]`}>
         <Header />
         <Main />
-      </header>
+      </div>
       <Section
         image={<InviteOnly className="w-full h-full" />}
         heading="Create an invite-only place where you belong"
