@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/discord_landingpage_clone/static/css/main.6e942342.css",
-    "main.js": "/discord_landingpage_clone/static/js/main.06dfbebf.js",
+    "main.css": "/discord_landingpage_clone/static/css/main.7f574933.css",
+    "main.js": "/discord_landingpage_clone/static/js/main.2107defe.js",
     "static/media/hanging_out_easy_landing.svg": "/discord_landingpage_clone/static/media/hanging_out_easy_landing.76aa061defcd84b0b1be95f7fe43fc55.svg",
     "static/media/invite_only_landing.svg": "/discord_landingpage_clone/static/media/invite_only_landing.01a90db7884c5a12e78cf5f0555a8dff.svg",
     "static/media/Ginto Nord Regular.woff2.ttf": "/discord_landingpage_clone/static/media/Ginto Nord Regular.woff2.019833f2218afaf213d3.ttf",
@@ -18,11 +18,12 @@
     "static/media/up_arrow.svg": "/discord_landingpage_clone/static/media/up_arrow.a8573fe57d419ead1d50fc85fe808cb1.svg",
     "static/media/open_icon.svg": "/discord_landingpage_clone/static/media/open_icon.915554d75380062f028e6ede523a58bb.svg",
     "static/media/down_arrow.svg": "/discord_landingpage_clone/static/media/down_arrow.7aee1d9f4d2c46f1c6c08f59cc89e325.svg",
-    "main.6e942342.css.map": "/discord_landingpage_clone/static/css/main.6e942342.css.map",
-    "main.06dfbebf.js.map": "/discord_landingpage_clone/static/js/main.06dfbebf.js.map"
+    "static/media/close_icon.svg": "/discord_landingpage_clone/static/media/close_icon.48953c4de094934a58eb0a54b3a816b8.svg",
+    "main.7f574933.css.map": "/discord_landingpage_clone/static/css/main.7f574933.css.map",
+    "main.2107defe.js.map": "/discord_landingpage_clone/static/js/main.2107defe.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e942342.css",
-    "static/js/main.06dfbebf.js"
+    "static/css/main.7f574933.css",
+    "static/js/main.2107defe.js"
   ]
 }
