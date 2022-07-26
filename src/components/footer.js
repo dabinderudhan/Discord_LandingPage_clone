@@ -21,10 +21,10 @@ const Footer = (prop) => {
   return (
     <footer className="bg-[#23272a] text-white py-20 px-10">
       <div
-        className={`${prop.container} xl:container xl:mx-auto grid grid-cols-4 gap-10`}
+        className={`${prop.container} xl:container xl:mx-auto 2xl:max-w-screen-xl grid grid-cols-4 gap-10 lg:gap-5 lg:grid-cols-6 lg:auto-cols-fr`}
       >
         <header className="flex flex-col gap-8 row-span-2 col-span-2">
-          <h1 className="text-5xl font-extrabold w-2/3 uppercase text-[#5865f2] leading-10">
+          <h1 className="text-5xl font-extrabold w-2/3 uppercase text-[#5865f2] leading-10 lg:w-11/12">
             Imagine a place
           </h1>
           <div className="flex gap-3 items-center">
@@ -97,8 +97,8 @@ const Footer = (prop) => {
           </ul>
         </nav>
       </div>
-      <div className="h-px w-full bg-[#4265e6] mt-10"></div>
-      <div className="flex justify-between mt-10 ">
+      <div className="xl:container xl:mx-auto 2xl:max-w-screen-xl h-px w-full bg-[#4265e6] mt-10"></div>
+      <div className="xl:container xl:mx-auto 2xl:max-w-screen-xl flex justify-between mt-10 ">
         <a href="/">
           <img src={DiscordLogo} alt="logo" />
         </a>

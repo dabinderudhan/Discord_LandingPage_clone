@@ -7,7 +7,7 @@ import { ReactComponent as UpArrow } from "../assets/up_arrow.svg";
 function Main(prop) {
   return (
     <main
-      className={`${prop.styleClass} xl:container xl:mx-auto flex flex-col items-start px-10 pt-10 pb-44 gap-6 relative z-20`}
+      className={`${prop.styleClass} xl:container xl:mx-auto 2xl:max-w-screen-xl flex flex-col items-start px-10 pt-10 pb-44 gap-6 relative z-20`}
     >
       <h1 className="font-sans text-6xl font-extrabold leading-[3rem] text-white uppercase mt-10 relative z-10">
         Imagine a <br></br> place...

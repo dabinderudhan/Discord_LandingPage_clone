@@ -5,6 +5,7 @@ import Button from "./Button";
 import { ReactComponent as CloseButton } from "../assets/close_icon.svg";
 import { ReactComponent as UpArrow } from "../assets/up_arrow.svg";
 import App from "../App";
+import DesktopNav from "./DesktopNav";
 
 function showSideBar(setSideBarClass, sideBarClass) {
   setSideBarClass(!sideBarClass);
@@ -15,7 +16,7 @@ function Header() {
   const [sideBarClass, setSideBarClass] = useState(false);
 
   return (
-    <header className="xl:container xl:mx-auto flex h-full justify-between items-center px-10 py-5">
+    <header className="xl:container xl:mx-auto 2xl:max-w-screen-xl flex h-full justify-between items-center px-10 py-5">
       <div
         className={`${
           sideBarClass ? null : "hidden"
@@ -24,10 +25,11 @@ function Header() {
       <a href="/">
         <DiscordLogo />
       </a>
+      <DesktopNav />
       <div className="flex gap-4">
         <Button buttonText="Login" />
         <OpenButton
-          className="inline-block cursor-pointer"
+          className="inline-block cursor-pointer lg:hidden"
           onClick={() => {
             showSideBar(setSideBarClass, sideBarClass);
           }}
@@ -37,7 +39,7 @@ function Header() {
       <aside
         className={`${
           sideBarClass ? "flex" : "hidden"
-        } fixed top-0 right-0 w-80 h-screen pl-8 py-6 pr-4 z-40 rounded-lg bg-white flex-col gap-4`}
+        } fixed top-0 right-0 w-80 h-screen pl-8 py-6 pr-4 z-40 rounded-lg bg-white flex-col gap-4 lg:hidden`}
       >
         <div className="flex justify-between mb-3">
           <a href="/">
